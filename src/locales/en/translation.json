@@ -1,0 +1,118 @@
+{
+  "common": {
+    "next": "Continue",
+    "back": "Back",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "navigation": {
+    "home": "Home",
+    "donate": "Donate",
+    "contact": "Contact",
+    "donors": "Donors"
+  },
+  "home": {
+    "title": "Help Slovak Dog Shelters",
+    "subtitle": "GoodBoy Foundation",
+    "description": "Every contribution helps improve the lives of abandoned dogs",
+    "startDonation": "Start Donating",
+    "learnMore": "Learn More",
+    "howItHelps": "How Your Donation Helps",
+    "medicalCare": "Medical Care",
+    "medicalCareDesc": "Provide essential medical care and treatments for abandoned dogs",
+    "foodNutrition": "Food & Nutrition",
+    "foodNutritionDesc": "Ensure proper nutrition and quality food for all shelter animals",
+    "safeShelter": "Safe Shelter",
+    "safeShelterDesc": "Maintain safe and comfortable living conditions for dogs"
+  },
+  "donation": {
+    "title": "Donation Form",
+    "step1Title": "Choose how you want to help",
+    "step2Title": "We need some information from you",
+    "step3Title": "Review your details",
+    "step1Label": "Step 1",
+    "step2Label": "Step 2",
+    "step3Label": "Step 3",
+    "confirmAndSubmit": "Confirm and Submit",
+    "type": {
+      "title": "Choose contribution type",
+      "general": "General contribution for foundation",
+      "shelter": "Contribution for specific shelter"
+    },
+    "shelter": {
+      "title": "Select shelter",
+      "placeholder": "Select shelter from list",
+      "optional": "(Optional)"
+    },
+    "amount": {
+      "title": "Amount you want to contribute",
+      "custom": "Custom amount",
+      "customPlaceholder": "Enter custom amount"
+    },
+    "personal": {
+      "title": "Your personal information",
+      "firstName": "First name",
+      "firstNamePlaceholder": "Enter your first name (optional)",
+      "lastName": "Last name",
+      "lastNamePlaceholder": "Enter your last name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "phone": "Phone",
+      "phonePlaceholder": "Enter your phone number",
+      "gdprConsent": "I agree to the processing of personal data"
+    },
+    "success": {
+      "title": "Thank you for your contribution!",
+      "message": "Your contribution has been successfully submitted.",
+      "newDonation": "New donation"
+    },
+    "error": {
+      "title": "An error occurred",
+      "message": "An error occurred while submitting your contribution. Please try again.",
+      "tryAgain": "Try again"
+    }
+  },
+  "contact": {
+    "title": "Contact Information",
+    "organization": "GoodBoy Foundation",
+    "address": "Address",
+    "email": "Email",
+    "phone": "Phone",
+    "openingHours": "Opening Hours",
+    "openingHoursWeekdays": "Monday - Friday: 9:00 - 17:00",
+    "openingHoursWeekend": "Saturday - Sunday: Closed"
+  },
+  "donors": {
+    "title": "Donation Statistics",
+    "totalAmount": "Total amount collected",
+    "donorCount": "Number of donors",
+    "donorList": "List of donors",
+    "anonymous": "Anonymous",
+    "amount": "Amount",
+    "date": "Date",
+    "name": "Name",
+    "noDonors": "No donors yet. Be the first to contribute!"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "phone": "Please enter a valid phone number in +421 or +420 format",
+    "minLength": "Minimum length is {{min}} characters",
+    "maxLength": "Maximum length is {{max}} characters",
+    "positiveNumber": "Please enter a positive number",
+    "amountRequired": "Please select an amount or enter a custom amount",
+    "gdprConsent": "You must accept the GDPR consent",
+    "shelterRequired": "Please select a shelter from the list"
+  },
+  "footer": {
+    "description": "Helping Slovak dog shelters provide better care for abandoned animals.",
+    "contactTitle": "Contact",
+    "legalTitle": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "copyright": "© {{year}} GoodBoy Foundation. All rights reserved."
+  }
+}

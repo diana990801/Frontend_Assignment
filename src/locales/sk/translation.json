@@ -1,0 +1,118 @@
+{
+  "common": {
+    "next": "Pokračovať",
+    "back": "Späť",
+    "submit": "Odoslať",
+    "cancel": "Zrušiť",
+    "loading": "Načítava sa...",
+    "error": "Chyba",
+    "success": "Úspech"
+  },
+  "navigation": {
+    "home": "Domov",
+    "donate": "Prispieť",
+    "contact": "Kontakt",
+    "donors": "Darcovia"
+  },
+  "home": {
+    "title": "Pomôžte slovenským útulkom pre psov",
+    "subtitle": "Nadácia GoodBoy",
+    "description": "Každý príspevok pomáha zlepšiť životy opustených psov",
+    "startDonation": "Začať s darovaním",
+    "learnMore": "Dozvedieť sa viac",
+    "howItHelps": "Ako pomáha váš príspevok",
+    "medicalCare": "Zdravotná starostlivosť",
+    "medicalCareDesc": "Poskytnite nevyhnutnú zdravotnú starostlivosť a liečbu opusteným psom",
+    "foodNutrition": "Strava a výživa",
+    "foodNutritionDesc": "Zabezpečte správnu výživu a kvalitnú stravu pre všetky zvieratá v útulku",
+    "safeShelter": "Bezpečný útulok",
+    "safeShelterDesc": "Udržiavajte bezpečné a pohodlné životné podmienky pre psov"
+  },
+  "donation": {
+    "title": "Formulár na darovanie",
+    "step1Title": "Vyberte si možnosť, ako chcete pomôcť",
+    "step2Title": "Potrebujeme od Vás zopár informácií",
+    "step3Title": "Skontrolujte si zadané údaje",
+    "step1Label": "Krok 1",
+    "step2Label": "Krok 2",
+    "step3Label": "Krok 3",
+    "confirmAndSubmit": "Potvrdiť a odoslať",
+    "type": {
+      "title": "Vyberte typ príspevku",
+      "general": "Všeobecný príspevok pre nadáciu",
+      "shelter": "Príspevok pre konkrétny útulok"
+    },
+    "shelter": {
+      "title": "Vyberte útulok",
+      "placeholder": "Vyberte útulok zo zoznamu",
+      "optional": "(Nepovinné)"
+    },
+    "amount": {
+      "title": "Suma, ktorou chcem prispieť",
+      "custom": "Vlastná suma",
+      "customPlaceholder": "Zadajte vlastnú sumu"
+    },
+    "personal": {
+      "title": "Vaše osobné údaje",
+      "firstName": "Meno",
+      "firstNamePlaceholder": "Zadajte vaše meno (nepovinné)",
+      "lastName": "Priezvisko",
+      "lastNamePlaceholder": "Zadajte vaše priezvisko",
+      "email": "E-mail",
+      "emailPlaceholder": "Zadajte váš e-mail",
+      "phone": "Telefón",
+      "phonePlaceholder": "Zadajte vaše telefónne číslo",
+      "gdprConsent": "Súhlasím so spracovaním osobných údajov"
+    },
+    "success": {
+      "title": "Ďakujeme za váš príspevok!",
+      "message": "Váš príspevok bol úspešne odoslaný.",
+      "newDonation": "Nový príspevok"
+    },
+    "error": {
+      "title": "Nastala chyba",
+      "message": "Pri odosielaní príspevku sa vyskytla chyba. Skúste to prosím znova.",
+      "tryAgain": "Skúsiť znova"
+    }
+  },
+  "contact": {
+    "title": "Kontaktné údaje",
+    "organization": "Nadácia GoodBoy",
+    "address": "Adresa",
+    "email": "E-mail",
+    "phone": "Telefón",
+    "openingHours": "Otváracie hodiny",
+    "openingHoursWeekdays": "Pondelok - Piatok: 9:00 - 17:00",
+    "openingHoursWeekend": "Sobota - Nedeľa: Zatvorené"
+  },
+  "donors": {
+    "title": "Štatistiky darovania",
+    "totalAmount": "Celková vyzbieraná suma",
+    "donorCount": "Počet darcov",
+    "donorList": "Zoznam darcov",
+    "anonymous": "Anonymný",
+    "amount": "Suma",
+    "date": "Dátum",
+    "name": "Meno",
+    "noDonors": "Zatiaľ žiadni darcovia. Buďte prví, któ prispeje!"
+  },
+  "validation": {
+    "required": "Toto pole je povinné",
+    "email": "Zadajte platnú e-mailovú adresu",
+    "phone": "Zadajte platné telefónne číslo vo formáte +421 alebo +420",
+    "minLength": "Minimálna dĺžka je {{min}} znaky",
+    "maxLength": "Maximálna dĺžka je {{max}} znakov",
+    "positiveNumber": "Zadajte kladné číslo",
+    "amountRequired": "Vyberte výšku príspevku alebo zadajte vlastnú sumu",
+    "gdprConsent": "Musíte súhlasiť so spracovaním osobných údajov",
+    "shelterRequired": "Prosím vyberte útulok zo zoznamu"
+  },
+  "footer": {
+    "description": "Pomáhame slovenským útulkom pre psov poskytovať lepšiu starostlivosť opusteným zvieratám.",
+    "contactTitle": "Kontakt",
+    "legalTitle": "Právne informácie",
+    "privacyPolicy": "Ochrana súkromia",
+    "termsOfService": "Podmienky používania",
+    "copyright": "© {{year}} Nadácia GoodBoy. Všetky práva vyhradené."
+  }
+}
