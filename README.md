@@ -1,6 +1,6 @@
-# GoodBoy Donation Form
+# Donation Form
 
-A modern Next.js application for the GoodBoy Foundation to collect donations for Slovak dog shelters.
+A modern Next.js application for the Foundation to collect donations for Slovak dog shelters.
 
 ## Features
 
@@ -155,13 +155,3 @@ Each page includes:
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For questions or support, contact:
-- Email: info@goodboy.sk
-- Phone: +421 123 456 789
